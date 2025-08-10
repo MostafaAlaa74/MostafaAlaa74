@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 Hi! I'm **Mostafa Alaa**,  
-🎓 Electronics & Communication Engineering Student (Telecommunications Department)  
+
 💻 Passionate **Backend Developer (Laravel)** with strong fundamentals in **OOP, PHP, SQL**  
 🚀 Currently improving my **Laravel**, **security best practices**, and **frontend integration** skills  
 
