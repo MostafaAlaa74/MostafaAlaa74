@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;I'm+Mostafa+Alaa+I'm+a+Back-end+Developer+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;I'm+Mostafa+Alaa;I'm+a+Back-end+Developer+%E2%9C%A9" width="70%" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 Hi! I'm **Mostafa Alaa**,  
 
 💻 Passionate **Backend Developer (Laravel)** with strong fundamentals in **OOP, PHP, SQL**  
-🚀 Currently improving my **Laravel**, **security best practices**, and **frontend integration** skills  
+🚀 Currently improving my **Laravel**, **security best practices**, **frontend integration**, and **Docker** skills  
 
 ---
 
@@ -21,21 +21,22 @@ Hi! I'm **Mostafa Alaa**,
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
-
 <!-- Programming Languages -->
-
 <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/OOP-%2300ADD8.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="OOP">
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 
 <!-- Backend & Frameworks -->
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/REST%20API-%2300599C.svg?style=for-the-badge&logo=linux&logoColor=white" alt="REST API">
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PhpMyAdmin-%23666970.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PhpMyAdmin">
 
-<!-- Tools -->
+<!-- Tools & DevOps -->
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -51,7 +52,7 @@ Hi! I'm **Mostafa Alaa**,
 <a href="mailto:mostafa.alaa7453@gmail.com">
 <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="www.linkedin.com/in/mostafa-alaa74">
+<a href="https://www.linkedin.com/in/mostafa-alaa74">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
